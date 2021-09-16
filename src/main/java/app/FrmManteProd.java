@@ -99,7 +99,12 @@ public class FrmManteProd extends JFrame {
 		lblCategora.setBounds(10, 112, 102, 14);
 		contentPane.add(lblCategora);
 	}
-
+	
+	void llenaCombo() {
+		System.out.println("proceso que llena combo");
+		
+	}
+	
 	void listado() {
 		
 	}
